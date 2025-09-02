@@ -82,6 +82,7 @@ Upper-level frameworks or libraries that are powered by Rspack or connected to R
 - [ng-rspack](https://github.com/edbzn/ng-rspack): Angular + Rspack + Nx + Module Federation 2.0.
 - [r2h](https://github.com/bdxygy/r2h): A blazing-fast SSR starter powered by React 19, Rspack, and Hono.
 - [vue-admin-better](https://github.com/zxwk1998/vue-admin-better): A Vue 3 admin based on Rspack.
+- [electron-react-rspack-boilerplate](https://github.com/Sovea/electron-react-rspack-boilerplate): A modern, unopinionated, pure boilerplate for developing electron app with Rspack, React, TypeScript.
 
 ### Rsbuild Starter
 
