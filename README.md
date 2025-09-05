@@ -313,7 +313,7 @@ Rspack and Rsbuild support most of the [unplugin](https://github.com/unplugin), 
 - [unplugin-inject-preload](https://github.com/Applelo/unplugin-inject-preload): Inject `<link rel="preload">` to your index.html based on your build assets. Need to be used with HTMLWebpackPlugin or HTMLRspackPlugin.
 - [@intlify/unplugin-vue-i18n](https://github.com/intlify/bundle-tools/tree/main/packages/unplugin-vue-i18n): unplugin for Vue I18n.
 - [unplugin-build-meta](https://github.com/luxass/unplugin-build-meta): Import build metadata into your JavaScript/TypeScript projects.
-- [unplugin-dts](https://github.com/qmhc/unplugin-dts): An unplugin that generates declaration files (*.d.ts).
+- [unplugin-dts](https://github.com/qmhc/unplugin-dts): An unplugin that generates declaration files (\*.d.ts).
 - [unplugin-icons](https://github.com/unplugin/unplugin-icons): Access thousands of icons as components on-demand universally.
 - [unplugin-favicons](https://github.com/anolilab/unplugin-favicons): Generate favicons for your project with caching for blazing fast rebuilds.
 - [unplugin-macros](https://github.com/unplugin/unplugin-macros): Macros plugin for bundlers.
@@ -393,6 +393,10 @@ Japanese blogs (日本語):
 French blogs (Français):
 
 - [2025-04] [Mon voyage depuis Webpack vers Vite et finalement Rsbuild](https://www.ginkonote.com/fr/utilisateurs/flo/articles/mon-voyage-depuis-webpack-vers-vite-et-finalement-rsbuild@javascript)
+
+## Deployment
+
+[Zephyr Cloud](https://zephyr-cloud.io) is a cloud deployment provider that integrates directly into your build system with zero config and provides ephemeral URLs each time you build.
 
 ## Videos
 
