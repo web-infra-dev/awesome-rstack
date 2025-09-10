@@ -97,6 +97,10 @@ Upper-level frameworks or libraries that are powered by Rspack or connected to R
 - [rsbuild-react-chakra-starter](https://github.com/sozonome/rsbuild-react-chakra-starter): initialize react app with rsbuild, Chakra UI and TypeScript setup. Configured with awesome toolings: Biome, Husky + Lint-Staged, Commitlint, and Turbo.
 - [template-rsbuild-react-ts-tailwind](https://github.com/RoyRao2333/template-rsbuild-react-ts-tailwind): Rsbuild starter template with React + Typescript + TailwindCSS + Biome.
 - [rsbuild-turborepo-react-module-federation](https://github.com/nguyenbatranvan/rspack-turbo-module-federation): Rsbuild + Turborepo + Biome + Zustand + React for module federation.
+- [@trapar-waves/react-tailwind](https://github.com/Trapar-waves/react-tailwind): A modern UI development template integrating React and Tailwind CSS, with Rsbuild, TypeScript, ESLint.
+- [@trapar-waves/react-antd-pro](https://github.com/Trapar-waves/react-antd-pro): A React-based project leveraging Ant Design Pro, TanStack tools, and Rsbuild.
+- [@trapar-waves/react-tanstack](https://github.com/Trapar-waves/react-tanstack): A React template leveraging TanStack tools, with TypeScript, Tailwind CSS, and Rsbuild integration.
+- [@trapar-waves/react-mantine-tailwind](https://github.com/Trapar-waves/react-mantine-tailwind): A React template integrating Mantine UI and Tailwind CSS for modern web development.
 - [@trapar-waves/vue-tailwind](https://github.com/Trapar-waves/vue-tailwind): A Vue 3 project with Tailwind CSS, Rsbuild and modern development tools.
 
 ### Rslib Starter
@@ -104,6 +108,7 @@ Upper-level frameworks or libraries that are powered by Rspack or connected to R
 - [ts-lib-starter](https://github.com/ulivz/ts-lib-starter): A hassle-free TS library template, powered by Rslib.
 - [rslib-npm-template](https://github.com/LLmoskk/rslib-npm-template): A starter template for developing React components with Rslib, featuring automated versioning and publishing using semantic-release.
 - [web-component-starter](https://github.com/holyfata/web-component-starter): A starter for developing Web components with Rslib, featuring using stencil and useful both in React and Vue.
+- [@trapar-waves/llm-template](https://github.com/Trapar-waves/llm-template): A template for LLM development integrating AI tools, TypeScript, Zod, and Rslib.
 
 ## Plugins
 
