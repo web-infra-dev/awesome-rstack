@@ -272,6 +272,7 @@ Rspack and Rsbuild support most of the webpack loaders, such as:
 - [rsbuild-plugin-arethetypeswrong](https://github.com/colinaaa/rsbuild-plugin-arethetypeswrong): Checking TypeScript type definitions with `arethetypeswrong`.
 - [zephyr-rsbuild-plugin](https://www.npmjs.com/package/zephyr-rsbuild-plugin): An Rsbuild plugin for deploying applications with Zephyr Cloud.
 - [rsbuild-plugin-protobufjs](https://github.com/baranwang/rsbuild-plugin-protobufjs): An Rsbuild plugin that integrates `protobufjs`.
+- [rsbuild-plugin-cdn-import](https://github.com/fuxichen/rsbuild-plugin-cdn-import): Import modules from CDN with rsbuild plugin
 
 ### Rspress Plugins
 
