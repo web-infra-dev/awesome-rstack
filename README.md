@@ -218,6 +218,7 @@ Rspack and Rsbuild support most of the webpack loaders, such as:
 
 - [relog-rsbuild-plugin](https://github.com/nanofuxion/relog-rsbuild-plugin): Allows you to intercept `console.log()` calls from your LynxJS app running on a device or emulator and send them back to the Rsbuild dev server.
 - [ngrok-rsbuild-plugin](https://github.com/nanofuxion/ngrok-rsbuild-plugin): Expose your Rsbuild dev server over the internet via ngrok — built for use with the LynxJS app.
+- [lynxjs-app-config-plugin](https://github.com/HimanshuKumarDutt094/lynxjs-app-config-plugin): Rsbuild plugin to inject application icons, permissions and minimal app config changes into Android / iOS project folders.
 
 #### Common
 
