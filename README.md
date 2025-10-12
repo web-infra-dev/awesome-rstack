@@ -273,6 +273,7 @@ Rspack and Rsbuild support most of the webpack loaders, such as:
 - [zephyr-rsbuild-plugin](https://www.npmjs.com/package/zephyr-rsbuild-plugin): An Rsbuild plugin for deploying applications with Zephyr Cloud.
 - [rsbuild-plugin-protobufjs](https://github.com/baranwang/rsbuild-plugin-protobufjs): An Rsbuild plugin that integrates `protobufjs`.
 - [rsbuild-plugin-cdn-import](https://github.com/fuxichen/rsbuild-plugin-cdn-import): Import modules from CDN with Rsbuild plugin.
+- [rsbuild-plugin-mcp](https://github.com/colinaaa/rsbuild-plugin-mcp): Rsbuild plugin that enables a MCP server for your Rsbuild app to provide information about your setup and modules graphs.
 
 ### Rspress Plugins
 
