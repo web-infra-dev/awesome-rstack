@@ -185,6 +185,7 @@ Upper-level frameworks or libraries that are powered by Rspack or connected to R
 - [@vue-devtools-rstack/rspack](https://github.com/OskarLebuda/vue-devtools-rstack/tree/main/packages/rspack): Integrates Vue DevTools with raw Rspack setups, with feature parity with `vite-plugin-vue-devtools`.
 - [@octanejs/rspack-plugin](https://octanejs.dev/docs/build-tools#rspack): Rspack loader and compiler plugin for Octane TSRX source.
 - [@golar-rstack/rspack](https://github.com/OskarLebuda/golar-rstack-plugin/tree/main/packages/rspack): Runs golar type checking and type-aware linting in a separate process as an Rspack plugin.
+- [@lunora/rspack](https://github.com/anolilab/lunora/tree/alpha/packages/rspack): Rspack and Rsbuild integration for the Lunora realtime backend framework on Cloudflare Workers.
 
 ### Rspack Loaders
 
